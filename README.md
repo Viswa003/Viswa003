@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey! 👋 I'm Viswa.<br>🔭 I'm currently Data Science and new Tech stacks.<br>🤝 I'm open to collaboration.<br> 
+🚀 Hey! 👋 I'm Viswa.<br>🔭 I'm currently learning Data Science and new Tech stacks.<br>🤝 I'm open to collaboration.<br> 
 
 
 ## 🌐 Socials:
